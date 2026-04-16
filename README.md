@@ -1,14 +1,6 @@
-# Ecoventure
+
 
 # ECOVENTURE
-
-## Institusi
-Calvin Institute of Technology
-
-## Anggota Tim
-- Ketua: Naftali Aditya Agung Dwi Nugraha
-- Anggota 1: Grace Ellen
-- Anggota 2: Yoyada Rava Christiana Harun 
 
 ## Deskripsi Karya
 Di tengah meningkatnya permasalahan lingkungan akibat perilaku manusia yang kurang peduli terhadap pengelolaan sampah, diperlukan media edukasi yang tidak hanya informatif, tetapi juga menarik dan aplikatif.
